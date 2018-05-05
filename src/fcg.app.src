@@ -1,0 +1,8 @@
+{application, fcg, [
+    {description, "Fuction call generator"},
+    {vsn, "1.0.0"},
+    {modules, [fcg]},
+    {registered, []},
+    {applications, [kernel, stdlib]},
+    {env, []}
+]}.
